@@ -1,4 +1,4 @@
-// package atcoder203.A;
+package atcoder203.A;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
